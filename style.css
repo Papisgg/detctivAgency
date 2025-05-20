@@ -24,7 +24,7 @@ body {
     position: relative;
     min-height: 100vh;
     background-image: url(img/backround.png);
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: top;
     background-repeat: no-repeat;
 }
